@@ -1,0 +1,9 @@
+.logo-all {
+  /* color: red; */
+  align-items: center;
+  margin: auto 0px;
+  background-color: burlywood;
+  padding: 5px;
+  border-radius: 20%;
+  cursor: pointer;
+}

@@ -1,0 +1,10 @@
+.contact-all {
+  /* margin-left: 20%; */
+  /* margin-right: 5%; */
+  margin: auto 5%;
+  background-color: blue;
+  align-items: center;
+  padding: 5px;
+  border-radius: 20%;
+  cursor: pointer;
+}

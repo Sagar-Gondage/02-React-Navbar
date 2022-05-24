@@ -1,0 +1,14 @@
+.info-all {
+  /* background-color: teal; */
+  display: flex;
+  text-decoration: none;
+  gap: 15px;
+  list-style-type: none;
+  /* align-items: center; */
+}
+
+.info-all > li {
+  color: red;
+  padding: 5px;
+  cursor: pointer;
+}
